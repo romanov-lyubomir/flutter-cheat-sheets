@@ -3,7 +3,7 @@
   "displayName": "Flutter Cheat Sheets",
   "publisher": "AppMomentum",
   "description": "Flutter cheat sheets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "logo.png",
   "engines": {
     "vscode": "^1.82.0"
